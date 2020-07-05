@@ -117,7 +117,8 @@ header {
     padding: 22px 30px;
     line-height: 30px;
     text-align: left;
-    font-size: 25px;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
 }
 
 .section-heading h3 {
@@ -144,7 +145,7 @@ header {
 }
 
 .call-button a {
-    background: #e67d23;
+     background: #20a724;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
@@ -153,7 +154,7 @@ header {
     display: block;
     width: 100%;
     border-radius: 5px;
-    font-family: proxima_bold;
+   
 }
 
 .featured-section {

@@ -1,16 +1,7 @@
-@font-face {
-    font-family: proxima_bold;
-    src: url(../../fonts/ProximaNova-Bold.ttf);
-}
 
-
-@font-face {
-    font-family: proxima_regular;
-    src: url(../../fonts/ProximaNova-Regular.ttf);
-}
 
 body {
-    font-family: proxima_regular;
+    font-family: 'Mukta', sans-serif;
     color: #323232;
 }
 
